@@ -1,0 +1,5 @@
+{
+    "require": {
+        "rudderstack/rudder-php-sdk": "^2.1"
+    }
+}
