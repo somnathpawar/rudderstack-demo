@@ -4,7 +4,7 @@ use Rudder\Rudder;
 require_once realpath(__DIR__ . '/vendor/autoload.php');
 
 Rudder::init("2eGdh9tE7jTfJK66eEjfzSXfQbx", array(
-  "data_plane_url" => "https://techsomnqsihzp.dataplane.rudderstack.com",
+  "data_plane_url" => "https://xxx.dataplane.rudderstack.com",
   "consumer"       => "lib_curl",
   "debug"          => true,
   "max_queue_size" => 10000,
